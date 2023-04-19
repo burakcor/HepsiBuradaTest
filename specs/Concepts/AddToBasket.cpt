@@ -1,0 +1,13 @@
+#Favorilerime eklenen ürünler sepete eklenir
+*"SepeteEkleButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"SepeteEkleButon" <element> xpath'li elemente tikla
+*"AlınmayacakUrunSepeteEkle" <xpath> xpath'li element gorunur olana kadar bekle
+*"AlınmayacakUrunSepeteEkle" <element> xpath'li elemente tikla
+*"SepetimButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"SepetimButon" <element> xpath'li elemente tikla
+#Bir adet ürün sepetten silinir
+*"AlınmayacakUrunSepettenSilme" <xpath> xpath'li element gorunur olana kadar bekle
+*"AlınmayacakUrunSepettenSilme" <element> xpath'li elemente tikla
+#Odeme kısmına gidilir
+*"AlisverisiTamamlaButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"AlisverisiTamamlaButon" <element> xpath'li elemente tikla

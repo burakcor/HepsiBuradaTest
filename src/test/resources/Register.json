@@ -1,0 +1,22 @@
+[
+  {
+    "key": "GirisYapveyaUyeOlButonu",
+    "Value": "com.pozitron.hepsiburada:id/account_menu_button",
+    "type": "id"
+  },
+  {
+    "key": "UyeOlButonu",
+    "Value": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "type": "XPath"
+  },
+  {
+    "key": "EPostaAdresiTextBox",
+    "Value": "txtEmail",
+    "type": "id"
+  },
+  {
+    "key": "DevamEtButonu",
+    "Value": "btnSignUpSubmit",
+    "type": "id"
+  }
+]

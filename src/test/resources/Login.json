@@ -1,0 +1,27 @@
+[
+  {
+    "key": "GirisYapButonu",
+    "Value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[1]",
+    "type": "XPath"
+  },
+  {
+    "key": "GirisYapTextBox",
+    "Value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "SiteyeGirisYapButonu",
+    "Value": "btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "SifreYazmaTextBox",
+    "Value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText",
+    "type": "XPath"
+  },
+  {
+    "key": "SifredenSonraGirisYapButonu",
+    "Value": "btnEmailSelect",
+    "type": "id"
+  }
+]

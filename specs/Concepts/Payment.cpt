@@ -1,0 +1,16 @@
+#Adres Ekleme Bilgileri Girilir
+*"AdresEklemeTextBox" xpath'li element gorunur olana kadar bekle
+*"AdresEklemeTextBox" xpath'li element varsa tıklanır
+*"KisiselBilgilerİsimEkleme" xpath'li element gorunur olana kadar bekle
+*"KisiselBilgilerİsimEkleme" xpath'li elemente <Recai> text degerini gonder
+*"KisiselBilgilerSoyisimEkleme" xpath'li elemente <Corbacioglu> text degerini gonder
+*"KisiselBilgilerTelefonEkleme" xpath'li elemente <5555555555> text degerini gonder
+*"AdresBilgisiMahalleSokakTextBox" xpath'li elemente <Bahcelievler Mh. , Kultur Sk.> text degerini gonder
+*"AdresBilgisiSehirTextBox" xpath'li elemente <Istanbul> text degerini gonder
+*"FaturaBilgisiButon" xpath'li element gorunur olana kadar bekle
+*"FaturaBilgisiButon" xpath'li element varsa tıklanır
+*"AdresiKaydetButon" xpath'li element gorunur olana kadar bekle
+*"AdresiKaydetButon" xpath'li element varsa tıklanır
+*"SiparisiOnaylaButon" id'li element gorunur olana kadar bekle
+#Sipariş onaylanır
+*"SiparisiOnaylaButon" id'li element varsa tıklanır

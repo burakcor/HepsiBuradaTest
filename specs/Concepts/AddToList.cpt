@@ -1,0 +1,7 @@
+#2 adet ürün seçilir, favorilerime eklenir
+*"BirinciUrunFavaEkleme" <id> li element gorunur olana kadar bekle
+*"BirinciUrunFavaEkleme" <id> id'li elemente tikla
+*"İkinciUrunFavaEkleme" <id> li element gorunur olana kadar bekle
+*"İkinciUrunFavaEkleme" <id> id'li elemente tikla
+*"ListeyeGit" <id> li element gorunur olana kadar bekle
+*"ListeyeGit" <element> id'li element varsa tikla

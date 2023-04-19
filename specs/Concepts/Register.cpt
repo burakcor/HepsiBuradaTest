@@ -1,0 +1,10 @@
+#HepsiBurada uygulaması açılır, yeni hesap oluşturulur
+*"GirisYapveyaUyeOlButonu" <id> li element gorunur olana kadar bekle
+*"GirisYapveyaUyeOlButonu" <element> id'li element varsa tikla
+*"UyeOlButonu" <xpath> xpath'li element gorunur olana kadar bekle
+*"UyeOlButonu" <element> xpath'li elemente tikla
+*"EPostaAdresiTextBox" <id> li element gorunur olana kadar bekle
+*"EPostaAdresiTextBox" <element> id'li element varsa tikla
+*"EPostaAdresiTextBox" <id> id'li elemente <recaicor@hotmail.com> text degerini gonder
+*"DevamEtButonu" <id> li element gorunur olana kadar bekle
+*"DevamEtButonu" <element> id'li element varsa tikla

@@ -1,0 +1,12 @@
+#Anasayfadan "Kategorilerim" sekmesine tıklanır
+*"HesabımEkranıKapama" <id> li element gorunur olana kadar bekle
+*"HesabımEkranıKapama" <element> id'li element varsa tikla
+*"KategorilerimButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"KategorilerimButon" <element> xpath'li elemente tikla
+#Bilgisayar, Teknoloji, Elektronik sekmesine tıklanır, "Kulak Ustu Kulaklık"'a tıklanır
+*"BilgisayarTeknolojiElektronikButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"BilgisayarTeknolojiElektronikButon" <element> xpath'li elemente tikla
+*"KulaklıkButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"KulaklıkButon" <element> xpath'li elemente tikla
+*"KulakUstuKulaklıkButon" <xpath> xpath'li element gorunur olana kadar bekle
+*"KulakUstuKulaklıkButon" <element> xpath'li elemente tikla

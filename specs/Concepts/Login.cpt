@@ -1,0 +1,15 @@
+#Giriş Yap butonuna tıklanır
+* "GirisYapButonu" <xpath> xpath'li element gorunur olana kadar bekle
+* "GirisYapButonu" <element> xpath'li elemente tikla
+#Kullanıcı Adı ve Şifre bilgileri girilerek hesaba giriş yapılır
+* "GirisYapTextBox" <id> li element gorunur olana kadar bekle
+* "GirisYapTextBox" <id> id'li elemente tikla
+* "GirisYapTextBox" <id> id'li elemente <recaicor@hotmail.com> text degerini gonder
+* "SiteyeGirisYapButonu" <id> li element gorunur olana kadar bekle
+* "SiteyeGirisYapButonu" <id> id'li elemente tikla
+* "SifreYazmaTextBox" <xpath> xpath'li element gorunur olana kadar bekle
+* "SifreYazmaTextBox" <element> xpath'li elemente tikla
+* "SifreYazmaTextBox" <xpath> xpath'li elemente <Recai123> text degerini gonder
+* "SifredenSonraGirisYapButonu" <id> li element gorunur olana kadar bekle
+* "SifredenSonraGirisYapButonu" <id> id'li elemente tikla
+#Karsılama ekranı "Tamam" butonuna tıklanarak kapatılır
